@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.home-page{
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+    color: blueviolet;
+    padding-top: 100px;
+}
+p{
+    padding-top: 50px;
+    font-size: 70px;
+    color: blue;
+}
